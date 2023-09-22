@@ -14,8 +14,11 @@ Normalize: Normalization by sum
 Scale: Pareto scaling
 
 4. Analysis of each combination group:
-QC+A+B+C: PCA(2D scores plot: display sample names)
-A+B+C: Correlations(choose a dimension: Samples), PCA(2D scores plot: display sample names), Dendrogram
+
+QC_vs_A_vs_B_vs_C: PCA(2D scores plot: display sample names)
+
+A_vs_B_vsC: Correlations(choose a dimension: Samples), PCA(2D scores plot: display sample names), Dendrogram
+
 A_vs_B: Fold change(FC: 1.5), T-test, Volcano plot(FC: 1.5, PC: 0.05), PCA(2D scores plot: display sample names), OPLS-DA(Permutation: 100), Dendrogram, Heatmap
 
 
