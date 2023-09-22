@@ -21,4 +21,6 @@ A_vs_B_vsC: Correlations(choose a dimension: Samples), PCA(2D scores plot: displ
 
 A_vs_B: Fold change(FC: 1.5), T-test, Volcano plot(FC: 1.5, PC: 0.05), PCA(2D scores plot: display sample names), OPLS-DA(Permutation: 100), Dendrogram, Heatmap
 
-
+# metaboanalyst.sh is designed to run the metabotlas Main.py Python script.
+# It requires two command line arguments: the full path to the working directory (which contains the quantitative table) 
+# and the full path to the grouping table.
