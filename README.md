@@ -1,0 +1,2 @@
+# Intergroup_analysis_by_metaboanalys
+Locally invoking MetaboAnalyst for differential analysis
