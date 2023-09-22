@@ -1,4 +1,4 @@
-# Intergroup_analysis_by_metaboanalys
+# Intergroup_analysis_by_metaboanalyst
 Locally invoking MetaboAnalyst for differential analysis in statistical Analysis (One Factor)
 
 1. Data Submission:
